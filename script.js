@@ -1,4 +1,4 @@
-const apiKey = 'a52788b5c9d248059fc89443635c726c'; // Your API Key
+const apiKey = 'Enter your API '; // Your API Key
 const apiUrl = 'https://newsapi.org/v2/everything'; // Replace with your actual API URL if needed
 
 document.getElementById('fetch-news').addEventListener('click', async function() {
